@@ -1,4 +1,5 @@
 #Control de Señal PWM por Bluetooth con ESP32#
+
 Este proyecto implementa un sistema de generación de señal PWM controlado vía Bluetooth utilizando un ESP32. Está orientado a aplicaciones didácticas, de prototipado rápido o control de actuadores simples, donde se requiere modificar la frecuencia y el ciclo de trabajo (duty cycle) de una señal en tiempo real.
 
 Funcionalidad principal
